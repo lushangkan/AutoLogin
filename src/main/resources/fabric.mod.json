@@ -3,8 +3,8 @@
   "id": "autologin",
   "version": "${version}",
   "name": "AutoLogin",
-  "description": "",
-  "authors": [],
+  "description": "A Fabric Mod that automatically logs in when entering a server with authentication",
+  "authors": ["lushangkan"],
   "contact": {
     "repo": "https://github.com/lushangkan/AutoLogin"
   },
