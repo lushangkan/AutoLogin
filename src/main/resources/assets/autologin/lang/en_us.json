@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.autologin.title": "Auto login",
+  "text.autoconfig.autologin.option.mainToggle": "Main switch",
+  "text.autoconfig.autologin.option.serverAddresses": "Enabled server addresses",
+  "text.autoconfig.autologin.option.serverAddresses.@Tooltip": "The server addresses that enable auto login, use ',' to separate multiple addresses",
+  "text.autoconfig.autologin.option.password": "Password",
+  "text.autoconfig.autologin.option.promptRequireLogin": "Prompt words for login required",
+  "text.autoconfig.autologin.option.promptRequireLogin.@Tooltip": "The keywords of the system message sent by the server when the player needs to log in, such as 'login', use ',' to separate multiple keywords",
+  "text.autoconfig.autologin.option.promptRequireRegister": "Prompt words for register required",
+  "text.autoconfig.autologin.option.promptRequireRegister.@Tooltip": "The keywords of the system message sent by the server when the player needs to register, such as 'register', use ',' to separate multiple keywords",
+  "text.autoconfig.autologin.option.loginCommand": "Login command",
+  "text.autoconfig.autologin.option.loginCommand.@Tooltip": "Login command, use the placeholder '%p' to represent the password",
+  "text.autoconfig.autologin.option.registerCommand": "Register command",
+  "text.autoconfig.autologin.option.registerCommand.@Tooltip": "Register command, use the placeholder '%p' to represent the password"
+}

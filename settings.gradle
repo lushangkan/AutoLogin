@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        mavenLocal()
+        maven {
+            name = "forge"
+            url = "https://lss233.littleservice.cn/repositories/minecraft"
+        }
+        gradlePluginPortal()
+    }
+}

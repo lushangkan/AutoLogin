@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.autologin.title": "自动登录",
+  "text.autoconfig.autologin.option.mainToggle": "主开关",
+  "text.autoconfig.autologin.option.serverAddresses": "启用的服务器地址",
+  "text.autoconfig.autologin.option.serverAddresses.@Tooltip": "启用自动登录的服务器地址，使用','分割多个地址",
+  "text.autoconfig.autologin.option.password": "密码",
+  "text.autoconfig.autologin.option.promptRequireLogin": "需要登录的提示词",
+  "text.autoconfig.autologin.option.promptRequireLogin.@Tooltip": "服务器需要玩家登录时发送的系统消息的关键词，例如'需要登录'，使用','分割多个关键词",
+  "text.autoconfig.autologin.option.promptRequireRegister": "需要注册的提示词",
+  "text.autoconfig.autologin.option.promptRequireRegister.@Tooltip": "服务器需要玩家注册时发送的系统消息的关键词，例如'需要注册'，使用','分割多个关键词",
+  "text.autoconfig.autologin.option.loginCommand": "登录命令",
+  "text.autoconfig.autologin.option.loginCommand.@Tooltip": "登录指令,使用占位符'%p'表示密码",
+  "text.autoconfig.autologin.option.registerCommand": "注册命令",
+  "text.autoconfig.autologin.option.registerCommand.@Tooltip": "注册命令,使用占位符'%p'表示密码"
+}
