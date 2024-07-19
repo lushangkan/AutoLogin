@@ -5,6 +5,7 @@ pluginManagement {
             name = "forge"
             url = "https://lss233.littleservice.cn/repositories/minecraft"
         }
+        maven { url "https://maven.fabricmc.net" }
         gradlePluginPortal()
     }
 }
